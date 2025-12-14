@@ -1,0 +1,15 @@
+# Fichiers à ignorer - Garder seulement lib/ et assets/
+
+# Ignorer tout sauf lib/ et assets/
+/*
+!/lib/
+!/assets/
+!README.md
+!SPECIFICATION.md
+!EXIGENCES_CONFORMITE.md
+!GUIDE_PRESENTATION_PROF.md
+!GUIDE_DEMO_LIVE_CODING.md
+!.gitignore
+
+# Dans lib/, ignorer les fichiers générés
+lib/**/*.g.dart
