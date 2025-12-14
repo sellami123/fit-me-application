@@ -9,6 +9,7 @@
 !EXIGENCES_CONFORMITE.md
 !GUIDE_PRESENTATION_PROF.md
 !GUIDE_DEMO_LIVE_CODING.md
+!GUIDE_GITHUB.md
 !.gitignore
 
 # Dans lib/, ignorer les fichiers générés
